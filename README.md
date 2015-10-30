@@ -1,4 +1,5 @@
-# tdd-chef-docker
+### Introduction
 
-TODO: Enter the cookbook description here.
+This is a POC repository to demostrate test driven development for
+your infrstructure code using Chef and Docker
 
